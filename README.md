@@ -13,7 +13,6 @@ Passionate software engineer with over 5 years of experience specializing in bac
 
 ### Backend Software Engineer  
 **Pagie Portal I Tanger, Morocco**  
-*2022-Present*
 
 - Developed and maintained robust backend solutions using Django and Node.js.
 - Implemented RESTful APIs and optimized database queries for enhanced performance.
@@ -46,14 +45,13 @@ Passionate software engineer with over 5 years of experience specializing in bac
 
 **BSc in Computer Science and Software Engineering**  
 Technical School of Management Information Technology and Electronics  
-*2017-2019*
 
 ## Skills
 
 - **Programming Languages:** Python, Javascript, C#, C
 - **Frameworks:** Django, Node.js, ReactJs, VueJs
 - **Concepts:** OOP, MVC, MVVM, Microservices, Monolithic, REST API, Canary Deployment, Blue-Green Deployment
-- **Databases:** PostgreSQL, MySQL, Cassandra, DjangoORM, SqlAlchemy
+- **Databases:** PostgreSQL, MySQL, Cassandra, SqlAlchemy
 - **DevOps Tools:** Docker, Jenkins, Kubernetes, Istio, Prometheus, Ansible, Grafana, Linux, Git
 
 ## Languages
@@ -64,5 +62,5 @@ Technical School of Management Information Technology and Electronics
 
 ## Certifications
 
-- **Microsoft Server 2013** (Non-Native Speaker)
+- **Microsoft Server 2013** 
 
